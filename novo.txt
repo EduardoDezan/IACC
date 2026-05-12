@@ -1,4 +1,6 @@
 Eduardo
-Idade: 18
-Cidade: Capão da Canoa
-Time do coração: 01:00
+Idade: 1000
+Cidade: Capão da rossa
+Time do coração: havai
+
+indo para a main
